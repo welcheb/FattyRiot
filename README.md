@@ -3,14 +3,33 @@ FattyRiot
 
 FattyRiot algorithm for separation of fat and water magnetic resonance images
 
-FattyRiot was the winning entry of the [International Society for Magnetic Resonance in Medicine (ISMRM) 2012 Challenge on Water-Fat Reconstruction](http://www.ismrm.org/challenge/node/18)
+This version of FattyRiot is the winning entry (29-Mar-2013 submission with score 9931) of the [International Society for Magnetic Resonance in Medicine (ISMRM) 2012 Challenge on Water-Fat Reconstruction](http://www.ismrm.org/challenge/node/18)
 
 FattyRiot includes algorithms available in the [ISMRM Fat-Water Toolbox v1](http://ismrm.org/workshops/FatWater12/data.htm) 
 
 FattyRiot team members include:
-* E. Brian Welch (captain), Vanderbilt University
-* David S. Smith, Vanderbilt University
-* Malcolm J. Avison, Vanderbilt University
+
+* E Brian Welch (captain), Vanderbilt University
+* David S Smith, Vanderbilt University
+* Malcolm J Avison, Vanderbilt University
 * Johan Berglund, Uppsala University
 * Joel Kullberg, Uppsala University
 * Håkan Ahlström, Uppsala University
+
+### LICENSE
+* FattyRiot is available under a Creative Commons Attribution-NonCommercial 4.0 International Public License. 
+* FattyRiot contains source code and object code from multiple sources.
+* FattyRiot is available strictly for non-commerical research purposes.
+* See [LICENSE.md](./LICENSE.md) for more details.
+
+### COPYRIGHT
+* FattyRiot contains copyrighted material from multiple sources. 
+* See [COPYRIGHT.md](./COPYRIGHT.md) for more details.
+
+### REFERENCES
+* FattyRiot contains algorithms and scientific concepts from many published works. 
+* See [REFERENCES.md](./REFERENCES.md) for more details.
+
+### SEE ALSO
+* FattyRiot poster presented at 2013 ISMRM: [`2013_ISMRM_(Smith,Welch)_ISMRM_Fat-Water_Challenge_Poster.pdf`](./2013_ISMRM_\(Smith,Welch\)_ISMRM_Fat-Water_Challenge_Poster.pdf)
+* GITHUB repository for [fw_i3cm1i_3pluspoint_berglund_QPBO](https://github.com/welcheb/fw_i3cm1i_3pluspoint_berglund_QPBO)
