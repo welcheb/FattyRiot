@@ -27,7 +27,9 @@
 * `./FattyRiot_toolbox/hernando/common/*.m`
 * `./FattyRiot_toolbox/hernando/descent/*.m`
 * `./FattyRiot_toolbox/hernando/graphcut/*.m`
-
+* `coilCombine` and `coilCombine3D` MATLAB functions based on:
+	- Walsh DO, Gmitro AF, Marcellin MW. Adaptive reconstruction of phased array MR imagery. Magn Reson Med 2000;43:682-690
+	
 ### Copyright (c) 2012 Johan Berglund
 
 * `./FattyRiot_toolbox/berglund/MultiSeedRegionGrowing/FattyRiot_Berglund2010.m`
