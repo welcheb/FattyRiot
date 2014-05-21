@@ -1,11 +1,11 @@
 FattyRiot
 =========
 
-FattyRiot algorithm for separation of fat and water magnetic resonance images
+FattyRiot is an algorithm for separation of fat and water magnetic resonance images.
 
-This version of FattyRiot is the winning entry (29-Mar-2013 submission with score 9931) of the [International Society for Magnetic Resonance in Medicine (ISMRM) 2012 Challenge on Water-Fat Reconstruction](http://www.ismrm.org/challenge/node/18)
+This version of FattyRiot is the winning entry (29-Mar-2013 submission with score 9931) of the [International Society for Magnetic Resonance in Medicine (ISMRM) 2012 Challenge on Water-Fat Reconstruction](http://www.ismrm.org/challenge/node/18).
 
-FattyRiot includes algorithms available in the [ISMRM Fat-Water Toolbox v1](http://ismrm.org/workshops/FatWater12/data.htm) 
+FattyRiot includes algorithms available in the [ISMRM Fat-Water Toolbox v1](http://ismrm.org/workshops/FatWater12/data.htm). 
 
 FattyRiot team members include:
 
@@ -17,7 +17,7 @@ FattyRiot team members include:
 * Håkan Ahlström, Uppsala University
 
 ### LICENSE
-* FattyRiot is available under a Creative Commons Attribution-NonCommercial 4.0 International Public License. 
+* FattyRiot is available under a [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). 
 * FattyRiot contains source code and object code from multiple sources.
 * FattyRiot is available strictly for non-commerical research purposes.
 * See [LICENSE.md](./LICENSE.md) for more details.
@@ -25,6 +25,9 @@ FattyRiot team members include:
 ### COPYRIGHT
 * FattyRiot contains copyrighted material from multiple sources. 
 * See [COPYRIGHT.md](./COPYRIGHT.md) for more details.
+
+### SETUP
+* See [SETUP.md](./SETUP.md) for more details.
 
 ### REFERENCES
 * FattyRiot contains algorithms and scientific concepts from many published works. 
