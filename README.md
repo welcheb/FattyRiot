@@ -36,3 +36,6 @@ FattyRiot team members include:
 ### SEE ALSO
 * FattyRiot poster presented at 2013 ISMRM: [`2013_ISMRM_(Smith,Welch)_ISMRM_Fat-Water_Challenge_Poster.pdf`](./2013_ISMRM_\(Smith,Welch\)_ISMRM_Fat-Water_Challenge_Poster.pdf)
 * GITHUB repository for [fw_i3cm1i_3pluspoint_berglund_QPBO](https://github.com/welcheb/fw_i3cm1i_3pluspoint_berglund_QPBO)
+
+### KNOWN ISSUES
+* A bug in the `DixonApp.m` wrapper causes incorrect operation when the water peak location is not entered as 0 ppm. Since this repo is supposed to be a "frozen" version of the highest scoring FattyRiot entry, the bug remains. The bug is corrected in the [fw_i3cm1i_3pluspoint_berglund_QPBO](https://github.com/welcheb/fw_i3cm1i_3pluspoint_berglund_QPBO) repo.  
