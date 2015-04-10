@@ -1,5 +1,6 @@
 FattyRiot
 =========
+[![DOI](https://zenodo.org/badge/11902/welcheb/FattyRiot.svg)](http://dx.doi.org/10.5281/zenodo.16741)
 
 FattyRiot is an algorithm for separation of fat and water magnetic resonance images.
 
