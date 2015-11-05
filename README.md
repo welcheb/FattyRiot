@@ -42,4 +42,4 @@ FattyRiot team members include:
 * A bug in the `DixonApp.m` wrapper causes incorrect operation when the water peak location is not entered as 0 ppm. Since this repo is supposed to be a "frozen" version of the highest scoring FattyRiot entry, the bug remains. The bug is corrected in the [fw_i3cm1i_3pluspoint_berglund_QPBO](https://github.com/welcheb/fw_i3cm1i_3pluspoint_berglund_QPBO) repo.  
 
 <hr>
-[![Analytics](https://ga-beacon.appspot.com/UA-54485519-2/FattyRiot/README.md)](https://github.com/welcheb/FattyRiot)
+[![Analytics](https://ga-beacon.appspot.com/UA-54485519-2/FattyRiot/README.md)](https://github.com/igrigorik/ga-beacon)
